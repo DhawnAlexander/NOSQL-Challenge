@@ -1,0 +1,8 @@
+dhawn@LAPTOP-5MTJDP9L MINGW64 ~/OneDrive/Desktop
+$ mongoimport --type json -d uk_food -c establishments --drop --jsonArray establishments.json
+2023-06-20T20:02:55.060-0500    connected to: mongodb://localhost/
+2023-06-20T20:02:55.067-0500    dropping: uk_food.establishments
+2023-06-20T20:02:58.064-0500    39779 document(s) imported successfully. 0 document(s) failed to import.
+(base)
+dhawn@LAPTOP-5MTJDP9L MINGW64 ~/OneDrive/Desktop
+$
